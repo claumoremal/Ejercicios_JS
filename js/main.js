@@ -3,7 +3,7 @@ let num2=0;
 let operacion=0;
 
 while(operacion!=9){
-    console.log()
+    console.log("Bienvenido a la calculadora");
     num1=parseInt(prompt("Ingrese número 1:"));
     num2=parseInt(prompt("Ingrese número 2:"));    
     operacion=parseInt(prompt("Ingresa el numero de operación a realizar (para salir presiona 9):"));
